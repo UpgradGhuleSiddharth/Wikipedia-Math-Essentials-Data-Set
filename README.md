@@ -1,1 +1,1 @@
-# -Wikipedia-Math-Essentials-Data-Set
+# Wikipedia-Math-Essentials-Data-Set
